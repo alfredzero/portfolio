@@ -22,8 +22,8 @@ body {
     align-items: center;
 }
 
-h2, .white {
-    color: #000;  /* Change the color of h2 and white class text to black */
+h2, .black {
+    color: #101214;  
 }
 
 a {
